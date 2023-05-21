@@ -1,5 +1,5 @@
-# quizzical
-- A quiz app based on React
+# Quizzical
+- A quiz app with React
 - There are 10 categories to be selected. There will be 5 random questions with only one correct answer in selected category.
-# preview
+# Preview
 https://quizzical-myildiz97.netlify.app/
